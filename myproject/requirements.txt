@@ -63,7 +63,7 @@ sqlparse==0.4.4
 ssh-import-id==5.7
 systemd-python==234
 tomli==1.2.3
-Twisted==17.9.0
+Twisted==24.3.0
 typing-extensions==4.1.1
 ubuntu-pro-client==8001
 ufw==0.36
